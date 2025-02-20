@@ -35,8 +35,10 @@ body {
   background-color: rgba(244, 128, 255, 1);
   color: rgba(255, 255, 255, 1);
   font-size: 40px;
-  width: 350px;
-  height: 670px;
+  width: 1000px;
+  height: 1000px;
+  max-width: 100%;
+  max-height: 100%;
 }
 #canvas {
   position: absolute;
